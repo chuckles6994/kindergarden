@@ -1,0 +1,20 @@
+html {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+*,
+*:before,
+*:after{
+    box-sizing: inherit;
+}
+
+.mission {
+    background-color: #FFE964;
+}
+.team{
+    background-color: #FF523D;
+}
+.contact {
+    background-color: #223C88;
+}
